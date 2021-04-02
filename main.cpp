@@ -45,7 +45,7 @@ bool isPalindrome(std::string word)
         begin++;
         end--;
     }
-
+//Author: Erica Carballo
     return isValid;
 
 }
